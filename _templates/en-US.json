@@ -936,6 +936,8 @@
   "api.error.groups.mt_secret_missing": "Mt Secret Missing",
   "api.error.groups.pending_cannot_be_default": "Cannot Be Default",
   "api.error.groups.port_invalid": "Groups Port Invalid",
+  "api.error.groups.process_stopped": "Process stopped; manager docking skipped",
+  "api.error.groups.server_disabled": "Server disabled; manager docking skipped",
   "api.error.groups.server_name_required": "Server name is required",
   "api.error.groups.server_not_found": "Server Not Found",
   "api.error.legacy.kyc.action_invalid": "Kyc Action Invalid",
