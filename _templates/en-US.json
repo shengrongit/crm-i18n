@@ -1862,7 +1862,7 @@
   "admin.pay.allowlist.text.028": "通道白名单",
   "admin.pay.allowlist.text.029": "Replace 覆盖：USER &gt; CRM 组 &gt; MT 组 &gt; 渠道 &gt; 系统",
   "admin.pay.allowlist.text.030": "新建名单",
-  "admin.groups.crm.text.020": "组编码 / 名称",
+  "admin.groups.crm.text.020": "组名称",
   "admin.groups.crm.text.022": "编辑 CRM 组",
   "admin.groups.crm.text.025": "@:admin.channels.text.037",
   "admin.groups.crm.text.029": "允许模拟账户",
