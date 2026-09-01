@@ -2373,6 +2373,7 @@
   "api.error.user.admin.crm_group_required": "CRM group is required",
   "api.error.user.admin.email_or_customer_no_required": "Customer No Required",
   "api.error.user.admin.ib_scheme_required": "Ib Scheme Required",
+  "api.error.user.admin.ib_group_rebate_disabled": "CRM group rebate is disabled; cannot grant IB or use group default scheme",
   "api.error.user.admin.legacy_db_not_configured": "@:api.error.legacy.kyc.legacy_db_not_configured",
   "api.error.user.admin.not_found": "User not found or deleted",
   "api.error.user.admin.password_or_force_change_required": "Force Change Required",
