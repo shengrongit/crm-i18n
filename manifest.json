@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-30",
+  "version": "2026-09-02",
   "languages": [
     {
       "code": "zh-HK",
       "label": "繁體中文",
-      "version": "15",
+      "version": "16",
       "uniLocale": "zh-Hant",
       "bucket": "en",
       "fallback": "zh-CN"
@@ -12,7 +12,7 @@
     {
       "code": "vi-VN",
       "label": "Tiếng Việt",
-      "version": "15",
+      "version": "16",
       "uniLocale": "vi",
       "bucket": "en",
       "fallback": "en-US"
@@ -20,7 +20,7 @@
     {
       "code": "km-KH",
       "label": "ភាសាខ្មែរ",
-      "version": "15",
+      "version": "16",
       "uniLocale": "en",
       "bucket": "en",
       "fallback": "en-US"
