@@ -8057,6 +8057,8 @@
   "admin.ib.apply.crmGroupRequired": "Assign a CRM group that has no agent yet",
   "admin.ib.apply.crmGroupVacantHint": "This group has no IB yet. After approval, its invite link will attach to this agent, and clients from the personal code will land in this group.",
   "admin.ib.apply.crmGroupEmpty": "No vacant CRM group. Create one or move existing agents first.",
+  "admin.ib.apply.crmGroupCreate": "New",
+  "admin.ib.apply.crmGroupEmptyCreate": "No vacant CRM group. Click New on the right to create one, or move existing agents first.",
   "admin.ib.apply.scheme": "Rebate scheme",
   "admin.ib.apply.schemePlaceholder": "Select a scheme",
   "admin.ib.apply.schemeRequired": "Please select a rebate scheme",
