@@ -4,7 +4,7 @@
     {
       "code": "zh-HK",
       "label": "繁體中文",
-      "version": "16",
+      "version": "17",
       "uniLocale": "zh-Hant",
       "bucket": "en",
       "fallback": "zh-CN"
