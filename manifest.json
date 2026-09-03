@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-02",
+  "version": "2026-09-03",
   "languages": [
     {
       "code": "zh-HK",
@@ -12,7 +12,7 @@
     {
       "code": "vi-VN",
       "label": "Tiếng Việt",
-      "version": "16",
+      "version": "17",
       "uniLocale": "vi",
       "bucket": "en",
       "fallback": "en-US"
@@ -20,7 +20,7 @@
     {
       "code": "km-KH",
       "label": "ភាសាខ្មែរ",
-      "version": "16",
+      "version": "17",
       "uniLocale": "en",
       "bucket": "en",
       "fallback": "en-US"
