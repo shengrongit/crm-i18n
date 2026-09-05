@@ -7544,6 +7544,7 @@
   "api.error.fund.fx.pair_same": "Currency pair cannot be the same",
   "api.error.fund.fx.pair_exists": "FX rate {fromCurrency}/{toCurrency} already exists",
   "api.error.fund.admin.withdraw_certificate_legacy": "Legacy withdrawals cannot store portal payout proof",
+  "api.error.fund.admin.deposit_mt_failed": "Deposit could not be credited to the trading account. The order is still pending. Please retry.",
   "api.error.groups.account_type_name_required": "Account type name is required",
   "api.error.groups.account_type_not_found": "Account type not found",
   "api.error.groups.mt_group_state_unsupported": "MT group enable/disable column is missing; apply migration V20260811_056_mt5_group_state",
