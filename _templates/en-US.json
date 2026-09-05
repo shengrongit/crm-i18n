@@ -840,7 +840,7 @@
   "wallet.overview.bonusWalletDesc": "Promotional bonus, not withdrawable",
   "wallet.overview.balanceLabel": "Balance({currency})",
   "wallet.overview.thirdParty": "Third-party",
-  "payout.title": "@:menu.wallet.payoutMethods",
+  "payout.title": "Payout Methods",
   "payout.subtitle": "Save a payout method before withdrawing; payouts use the snapshot taken at submission",
   "payout.listCard": "My Payout Methods",
   "payout.add": "Add Payout Method",
@@ -8378,5 +8378,18 @@
   "admin.logs.payment.biz.batch_recharge": "Batch Recharge",
   "admin.logs.payment.biz.other": "@:common.country.OTHER",
   "admin.logs.payment.filterWithdrawReview": "Withdrawal Review",
-  "admin.logs.payment.loadFailed": "Failed to load payment logs"
+  "admin.logs.payment.loadFailed": "Failed to load payment logs",
+  "payout.edit": "Edit payout method",
+  "payout.delete": "Delete",
+  "payout.deleteConfirm": "Deleted methods cannot be used for new withdrawals. Submitted withdrawals still pay out from their snapshot. Delete?",
+  "payout.deleted": "Payout method deleted",
+  "payout.deleteFailed": "Failed to delete payout method",
+  "payout.updated": "Payout method updated",
+  "payout.updateFailed": "Failed to update payout method",
+  "payout.field.typeLockedEdit": "The saved type cannot be changed so it stays consistent with past withdrawals",
+  "payout.field.keepSecret": "Card numbers and addresses are masked. Leave blank to keep the current value, or re-enter the full value to change it.",
+  "payout.field.accountNoPlaceholder": "Leave blank to keep",
+  "payout.field.addressKeepPlaceholder": "Leave blank to keep",
+  "profile.tab.payout": "Payout Methods",
+  "menu.profile.payoutMethods": "Payout Methods"
 }

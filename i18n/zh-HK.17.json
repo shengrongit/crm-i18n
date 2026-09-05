@@ -840,7 +840,7 @@
   "wallet.overview.bonusWalletDesc": "活動贈金，不可提現",
   "wallet.overview.balanceLabel": "餘額({currency})",
   "wallet.overview.thirdParty": "第三方支付",
-  "payout.title": "@:menu.wallet.payoutMethods",
+  "payout.title": "收款方式",
   "payout.subtitle": "提現前先建档，提交後按當時的档案快照打款",
   "payout.listCard": "我的收款方式",
   "payout.add": "新增收款方式",
@@ -8373,5 +8373,18 @@
   "admin.logs.payment.biz.batch_recharge": "批量充值",
   "admin.logs.payment.biz.other": "@:common.country.OTHER",
   "admin.logs.payment.filterWithdrawReview": "提現審核",
-  "admin.logs.payment.loadFailed": "加載支付日誌失敗"
+  "admin.logs.payment.loadFailed": "加載支付日誌失敗",
+  "payout.edit": "修改收款方式",
+  "payout.delete": "删除",
+  "payout.deleteConfirm": "删除后不能再用于新的提现。已提交的提现单仍按当时快照打款。确定删除？",
+  "payout.deleted": "收款方式已删除",
+  "payout.deleteFailed": "删除收款方式失败",
+  "payout.updated": "收款方式已更新",
+  "payout.updateFailed": "修改收款方式失败",
+  "payout.field.typeLockedEdit": "已保存的类型不能改，避免和历史出金对不上",
+  "payout.field.keepSecret": "卡号/地址只显示掩码。不改请留空，要改请重新填写完整号。",
+  "payout.field.accountNoPlaceholder": "不改请留空",
+  "payout.field.addressKeepPlaceholder": "不改请留空",
+  "profile.tab.payout": "收款方式",
+  "menu.profile.payoutMethods": "收款方式"
 }
