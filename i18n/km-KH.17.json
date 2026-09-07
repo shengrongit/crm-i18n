@@ -3273,6 +3273,8 @@
   "admin.reviews.supplementTitle": "Request Supplement",
   "admin.reviews.rejectPrompt": "Please enter a reason",
   "admin.reviews.rejectRequired": "Reason is required",
+  "admin.reviews.rejectLocaleHint": "Customers see the text in their portal language. Missing languages fall back to a filled one. Locale list comes from Settings → Language.",
+  "admin.reviews.rejectLocaleRequired": "Enter the rejection reason in the default portal language",
   "admin.reviews.reviewSuccess": "Review completed",
   "admin.reviews.reviewFailed": "Review failed",
   "admin.reviews.deposit.subtitle": "Deposit review queue, including client portal orders",

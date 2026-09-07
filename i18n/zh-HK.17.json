@@ -3298,6 +3298,8 @@
   "admin.reviews.supplementTitle": "要求補件",
   "admin.reviews.rejectPrompt": "請填寫原因",
   "admin.reviews.rejectRequired": "請填寫原因",
+  "admin.reviews.rejectLocaleHint": "客戶按其門戶語言看到對應文案；未填寫的語言會回退到已填寫內容。語言列表來自「設置 → 語言設置」。",
+  "admin.reviews.rejectLocaleRequired": "請至少填寫默認語言的拒絕原因",
   "admin.reviews.reviewSuccess": "審核完成",
   "admin.reviews.reviewFailed": "審核失敗",
   "admin.reviews.deposit.subtitle": "入金審核隊列：門戶新單審核後入賬中心錢包或 MT；舊庫單只改歷史狀態，不會寫入門戶錢包。",

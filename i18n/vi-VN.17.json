@@ -3273,6 +3273,8 @@
   "admin.reviews.supplementTitle": "Request Supplement",
   "admin.reviews.rejectPrompt": "Please enter a reason",
   "admin.reviews.rejectRequired": "Reason is required",
+  "admin.reviews.rejectLocaleHint": "Khách thấy nội dung theo ngôn ngữ cổng. Ngôn ngữ trống sẽ dùng bản đã điền. Danh sách ngôn ngữ lấy từ Cài đặt → Ngôn ngữ.",
+  "admin.reviews.rejectLocaleRequired": "Nhập lý do từ chối bằng ngôn ngữ mặc định của cổng",
   "admin.reviews.reviewSuccess": "Review completed",
   "admin.reviews.reviewFailed": "Review failed",
   "admin.reviews.deposit.subtitle": "Deposit review queue, including client portal orders",
