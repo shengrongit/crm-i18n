@@ -5004,7 +5004,7 @@
   "admin.kyc.config.schemeNodeRequirementsHint": "You can only select sections enabled in this scheme.",
   "admin.kyc.config.manageNodes": "Manage node catalog",
   "admin.kyc.config.saveNodeRequirements": "Save node requirements",
-  "admin.kyc.config.node": "Node",
+  "admin.kyc.config.nodeColumn": "Node",
   "admin.kyc.config.timing": "Timing",
   "admin.kyc.config.preIntercept": "Pre-check",
   "admin.kyc.config.postAllowed": "Allow first",

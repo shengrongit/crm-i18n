@@ -4998,7 +4998,7 @@
   "admin.kyc.config.schemeNodeRequirementsHint": "只能選擇本方案已啟用的資料分區。",
   "admin.kyc.config.manageNodes": "管理節點目錄",
   "admin.kyc.config.saveNodeRequirements": "保存節點要求",
-  "admin.kyc.config.node": "節點",
+  "admin.kyc.config.nodeColumn": "節點",
   "admin.kyc.config.timing": "時機",
   "admin.kyc.config.preIntercept": "辦理前攔截",
   "admin.kyc.config.postAllowed": "允許先辦理",

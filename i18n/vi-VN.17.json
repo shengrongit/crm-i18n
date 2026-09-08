@@ -4973,7 +4973,7 @@
   "admin.kyc.config.schemeNodeRequirementsHint": "Chỉ có thể chọn các mục đã bật trong scheme này.",
   "admin.kyc.config.manageNodes": "Quản lý danh mục node",
   "admin.kyc.config.saveNodeRequirements": "Lưu yêu cầu node",
-  "admin.kyc.config.node": "Node",
+  "admin.kyc.config.nodeColumn": "Node",
   "admin.kyc.config.timing": "Thời điểm",
   "admin.kyc.config.preIntercept": "Kiểm tra trước",
   "admin.kyc.config.postAllowed": "Cho phép trước",

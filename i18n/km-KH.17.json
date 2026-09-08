@@ -4973,7 +4973,7 @@
   "admin.kyc.config.schemeNodeRequirementsHint": "អ្នកអាចជ្រើសបានតែផ្នែកដែលបានបើកក្នុងគម្រោងនេះ។",
   "admin.kyc.config.manageNodes": "គ្រប់គ្រងកាតាឡុកថ្នាំង",
   "admin.kyc.config.saveNodeRequirements": "រក្សាទុកតម្រូវការថ្នាំង",
-  "admin.kyc.config.node": "ថ្នាំង",
+  "admin.kyc.config.nodeColumn": "ថ្នាំង",
   "admin.kyc.config.timing": "@:common.time",
   "admin.kyc.config.preIntercept": "ពិនិត្យជាមុន",
   "admin.kyc.config.postAllowed": "អនុញ្ញាតជាមុន",
