@@ -2863,7 +2863,7 @@
   "menu.accounts.crm": "CRM賬戶",
   "menu.accounts.trading": "交易賬戶",
   "menu.accounts.relations": "客戶關系",
-  "admin.relations.subtitle": "只展示有下級的賬戶，點 + 逐級展開 L1 / L2；改綁請到用戶詳情",
+  "admin.relations.subtitle": "全部無上級賬戶（含無下級）均可查看和調組；無下級可拖拽改級，有下級請先遷出",
   "admin.relations.searchPlaceholder": "姓名 / 客戶號 / 郵箱 / 邀請碼 / 賬戶ID",
   "admin.relations.selectPlaceholder": "請選擇CRM賬戶",
   "admin.relations.selectAction": "選擇",
